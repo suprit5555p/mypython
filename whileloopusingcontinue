@@ -1,0 +1,7 @@
+#while loop using continue
+count = 0
+while count < 7:
+    count += 1
+    if count == 4:
+        continue
+    print(count)
