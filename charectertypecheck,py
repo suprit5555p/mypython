@@ -1,0 +1,6 @@
+#charecter type checker
+a = input("enter an charecter")
+if a.lower()in['a','e','i','o','u' ]:
+  print("it is a vowel")
+else :
+  print("it is a consonant")
