@@ -1,0 +1,6 @@
+#1
+number = []
+for i in range(5):
+  num=int(input("enter the number"))
+  number.append(num)
+print(number)
