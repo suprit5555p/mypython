@@ -1,0 +1,5 @@
+list = [5,4,6,7,8,3,2,1]
+list.sort()
+print("ascending order", list)
+list.reverse()
+print("descending order", list)
