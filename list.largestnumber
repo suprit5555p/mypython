@@ -1,0 +1,4 @@
+list = [8,5,3,2,1,7,6,4]
+list.sort()
+print(list)
+print("second leargest number is", list[-2])
